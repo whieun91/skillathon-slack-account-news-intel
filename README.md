@@ -86,7 +86,6 @@ $slack-account-news-intel-demo를 사용해서 references/customer-accounts.md�
 - [x] demo report가 mock data로 생성되어 있습니다.
 - [x] 실제 고객사명, 실제 Slack 사용량, 내부 계정 메모를 포함하지 않습니다.
 - [x] API key, token, webhook URL, password를 포함하지 않습니다.
-- [x] `.DS_Store` 같은 로컬 OS 파일은 Git에서 제외합니다.
 - [ ] GitHub 제출 후 README, SKILL.md, demo report 링크가 제출 양식에 포함되어야 합니다.
 
 ## 민감정보 처리
