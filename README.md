@@ -1,10 +1,10 @@
-# Skillathon Submission: Slack Account News Intel Demo
+# 눈 떠보니 내 고객사가 대박나서 slack 최상위 플랜을 팔게 된 건에 대하여
 
 ## 제출 요약
 
-이 저장소는 Skillathon 제출용 Codex Skill 데모입니다. 공개 뉴스 신호와 mock Slack 계정 데이터를 결합해, Slack AE가 이번 주 접근할 계정과 후킹 메시지를 빠르게 정리하도록 돕습니다.
+이 저장소는 Skillathon 제출용 Codex Skill 데모입니다. 공개 뉴스 신호와 mock Slack 계정 데이터를 결합해, Slack AE, 인바운드, 아웃바운드 담당자가 이번 주 접근할 계정과 후킹 메시지를 빠르게 정리하도록 돕습니다.
 
-제출물은 실제 고객 데이터가 아니라 재현 가능한 mock data를 사용합니다. 결과물은 한국어 Markdown 리포트와 Slack에 복사해 붙여넣을 수 있는 요약 메시지를 중심으로 구성했습니다.
+제출물은 실제 고객 데이터가 아니라 재현 가능한 mock data를 사용합니다. 결과물은 한국어 Markdown 리포트와 Slack에 복사해 붙여넣을 수 있는 요약 메시지를 중심으로 구성했습니다. 다만, 실제로 고객 데이터로 별도 테스트를 했을 때에도 
 
 ## 해결하려는 문제
 
