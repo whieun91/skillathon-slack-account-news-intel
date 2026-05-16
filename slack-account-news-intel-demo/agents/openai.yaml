@@ -1,0 +1,4 @@
+interface:
+  display_name: "Slack 고객사 뉴스 인텔리전스 데모"
+  short_description: "공개 뉴스와 mock 데이터 기반 Slack 세일즈 인텔리전스"
+  default_prompt: "Use $slack-account-news-intel-demo to create a demo-safe Korean Markdown account news report and Slack-ready summary using mock customer plan and usage data."
